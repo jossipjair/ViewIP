@@ -1,0 +1,10 @@
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\bin\Debug\ViewIp.exe.config
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\bin\Debug\ViewIp.exe
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\bin\Debug\ViewIp.pdb
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.csproj.AssemblyReference.cache
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.FrmViewIP.resources
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.Properties.Resources.resources
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.csproj.GenerateResource.cache
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.csproj.CoreCompileInputs.cache
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.exe
+D:\PROYECTOS PERSONALES\ViewIP\ViewIp\ViewIp\obj\Debug\ViewIp.pdb
